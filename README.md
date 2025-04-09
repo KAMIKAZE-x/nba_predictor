@@ -21,7 +21,7 @@ This project combines **web scraping, data preprocessing, and machine learning**
 
 - `get_data.ipynb` – Scrapes NBA box scores from Basketball Reference.  
 - `parse_data.ipynb` – Cleans and organizes the scraped data into a structured DataFrame.  
-- `predict.ipynb` – Trains and evaluates a machine learning model to predict game outcomes.
+- `prediction.ipynb` – Trains and evaluates a machine learning model to predict game outcomes.
 
 ---
 
